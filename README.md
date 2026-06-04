@@ -1,4 +1,4 @@
-# PSL Project 2 — Walmart Store Sales Forecasting with SVD/PCA Regression
+# Walmart Store Sales Forecasting with SVD/PCA Regression
 
 **Course:** STAT 542 — Statistical Learning, University of Illinois Urbana-Champaign, Fall 2022  
 **Team:** Mohammad Hassanpour ([@mohassan99](https://github.com/mohassan99)) · Jason Young (jasony6) · Unnati Narang (unnati)
