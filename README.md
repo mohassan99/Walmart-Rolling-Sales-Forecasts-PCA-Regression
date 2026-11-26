@@ -59,6 +59,6 @@ Data provided by the course (not included in this repo). Required files to run `
 
 | Project | Repo |
 |---------|------|
-| P1 — Ames Housing Regression | [PSL-Project-1-Ames-Housing-Regression](https://github.com/mohassan99/PSL-Project-1-Ames-Housing-Regression) |
-| P3 — IMDB Sentiment Analysis | [PSL-Project-3-Sentiment-Analysis](https://github.com/mohassan99/PSL-Project-3-Sentiment-Analysis) |
-| P4 — Movie Recommender System | [PSL-Project-4-Movie-Recommender](https://github.com/mohassan99/PSL-Project-4-Movie-Recommender) |
+| P1 — Ames Housing Regression | [Housing-Price-Prediction-XGBoost-GLMNet](https://github.com/mohassan99/Housing-Price-Prediction-XGBoost-GLMNet) |
+| P3 — IMDB Sentiment Analysis | [Sentiment-Analysis](https://github.com/mohassan99/Sentiment-Analysis) |
+| P4 — Movie Recommender System | [Movie-Recommender---Collaborative-Filtering](https://github.com/mohassan99/Movie-Recommender---Collaborative-Filtering) |
